@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Head-->
+<%- include('./partials/head.ejs') %>
+
+  <body>
+    <!--navigation bar-->
+  <%- include('./partials/nav.ejs') %>
+
+    <!--Main content-->
+    <h2 style="padding-left: 17px; margin-top:10px;" >AUTHORS</h2>
+    <div class="container-fluid">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Author</th>
+            <th scope="col">Age</th>
+            <th scope="col">Address</th>
+            <!-- <th scope="col">Author's Book</th> -->
+            <th scope="col">View Book(s)</th>
+            <th scope="col">Delete Author</th>
+            <th scope="col">Update Author</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% if (authors){ %> <% for(let i = 0; i < authors.length; i++){%>
+          <tr>
+            <th scope="row"><%= authors[i].id %></th>
+            <td><%= authors[i].author %></td>
+            <td><%= authors[i].age %></td>
+            <td><%= authors[i].address %></td>
+            <td><a href="/users/get_author/<%= authors[i].id %>"> View </a></td>
+            <td><a href="/users/delete_authors/<%= authors[i].id %>"> Delete </a></td>
+            <td><a href="/users/update/<%= authors[i].id %>"> Update </a></td>
+            <!-- <td><a  href="/users/customers/delete/<%= authors[i].id %>"> View </a></td>
+                        <td><a  href="/users/update/<%= authors[i].id %>"> Delete </a></td>
+                        <td><a  href="/users/customers/delete/<%= authors[i].id %>"> Update </a></td> -->
+            <!-- <td><%= authors[i].phone %></td> -->
+            <!-- <td><%= authors[i].address %></td> -->
+            <!-- <td><%= authors[i].notes %></td> -->
+          </tr>
+          <% } %> <% } %>
+        </tbody>
+      </table>
+      <div>
+        <a class="btn btn-outline-primary" href="/users/add_author">Add Author</a>
+        <!-- <a class="btn btn-outline-secondary" href="">Get Author</a> -->
+      </div>
+    </div>
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>

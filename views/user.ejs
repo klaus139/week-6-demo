@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+ <!--Head-->
+ <%- include('./partials/head.ejs') %>
+  <body>
+    <!--navigation bar-->
+    <%- include('./partials/nav.ejs') %>
+    <!--Main content-->
+    <div class="card mb-3 py-1 mb-4" style="max-width: 540px">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="/" class="img-fluid rounded-start" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h2 style="padding-left: 17px; margin-top:10px;">AUTHOR</h2>
+            <% const singleAuthor = author %>
+            <h5 style= "padding-left: 17px;"><%= singleAuthor.id %></h5>
+            <h3 style="padding-left: 17px;"><%= singleAuthor.author %></h3>
+            <h5 style="padding-left: 17px;"><%= singleAuthor.age %></h5>
+            <h5 style="padding-left: 17px;"><%= singleAuthor.address %></h5>
+            <h5 style="padding-left: 17px;"><%= singleAuthor.dateRegistered %></h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Table content for books of author-->
+    <div class="container-fluid">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Book Name</th>
+            <th scope="col">Publish Status</th>
+            <th scope="col">Date of Publish</th>
+            <th scope="col">Serial Number</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% const authorBook = author.books %>
+          <% if (authorBook){ %> <% for(let i = 0; i < authorBook.length; i++){%>
+          <tr>
+            <th scope="row"><%= authorBook[i].id %></th>
+            <td><%= authorBook[i].name %></td>
+            <td><%= authorBook[i].isPublished %></td>
+            <td><%= authorBook[i].datePublished %></td>
+            <td><%= authorBook[i].serialNumber %></td>
+          </tr>
+          <% } %> <% } %>
+        </tbody>
+      </table>
+      <div>
+        <a class="btn btn-outline-primary mb-3" href="/users/book_create">Add Book</a>
+        <a class="btn btn-outline-danger  mb-3" href="/users/delete_book/<%= singleAuthor.id %>">Delete Book</a>
+        <!-- <a class="btn btn-outline-secondary" href="">Get Author</a> -->
+      </div>
+    </div>
+
+    <%- include('./partials/footer.ejs') %>
+  </body>
+</html>

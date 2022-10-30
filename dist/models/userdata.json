@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "firstname": "Olakunle",
+    "lastname": "Jade",
+    "emailaddress": "joncrystal@gmail.com",
+    "password": "$2b$10$4olcRHZbwZ6c0HIgykdvqeS3IFpRUNVgC9DqmYAR2et4bCjJZXTn6"
+  },
+  {
+    "id": 2,
+    "firstname": "Moses",
+    "lastname": "Ugwu",
+    "emailaddress": "jonabel@gmail.com",
+    "password": "$2b$10$5S7n6FcKvtIHKXuDzBxKgu.1Ytm4lXY5c84nuRrRpcQSoPwZeFS2i"
+  },
+  {
+    "id": 3,
+    "firstname": "Raymond",
+    "lastname": "Uju",
+    "emailaddress": "jronkel@gmail.com",
+    "password": "$2b$10$9TxevOSCGzC31SU1Oetj3.2ExKMPUe/I0FyL4i/ZiP/N9Dc/Uewe2"
+  },
+  {
+    "id": 4,
+    "firstname": "Raymond",
+    "lastname": "Awolowo",
+    "emailaddress": "adejo@gmail.com",
+    "password": "$2b$10$zOYPfb8hvN3fIheq7dt4ZufsBf468/YQsolSNL3VBCdi5lyJoA06u"
+  },
+  {
+    "id": 5,
+    "firstname": "Caleb",
+    "lastname": "jesus",
+    "emailaddress": "query@gmail.com",
+    "password": "$2b$10$WuG3XDR1VIyGUnQ2dIwMqOkKv94JfxtAGIhwLvJx9OZHRcek.NWWW"
+  },
+  {
+    "id": 6,
+    "firstname": "leslie",
+    "lastname": "Jade",
+    "emailaddress": "qewrtytuyiuio@gmail.com",
+    "password": "$2b$10$/EuWzdsN0YBt8WNufJdcBO26rcxumBU/vK0SUrHenp/fUhGFm/8ka"
+  },
+  {
+    "id": 7,
+    "firstname": "Deen",
+    "lastname": "Awolowo",
+    "emailaddress": "unbeatable@gmail.com",
+    "password": "$2b$10$H1ea.14fRnYFJue8Ar3HPOlHEaI6BbPWbgB.zFiB9jxLUzS0rPNay"
+  },
+  {
+    "id": 8,
+    "firstname": "Moses",
+    "lastname": "Ugwu",
+    "emailaddress": "iooppp@gmail.com",
+    "password": "$2b$10$k0UPhOImEaDFnpD..U76F.aV0YLG3clZiXnvSoZ8xDZRYiYTgq5l."
+  },
+  {
+    "id": 9,
+    "firstname": "Olakunle",
+    "lastname": "jumia",
+    "emailaddress": "ertyui@gmail.com",
+    "password": "$2b$10$9DIT47LZs7ILY0S9S3IMhukUTrdV0yek1tlwHGnuVkgOx2B1kTIBK"
+  },
+  {
+    "id": 10,
+    "firstname": "Segun",
+    "lastname": "you",
+    "emailaddress": "qwertyu@gmail.com",
+    "password": "$2b$10$P3Vl5ENH1y1I6Bg1pYMlJ.S77xRZy/26hxx7VxeQe2GIYXQbXQArq"
+  },
+  {
+    "id": 11,
+    "firstname": "Afeex",
+    "lastname": "Mommy",
+    "emailaddress": "sdfgh@gmail.com",
+    "password": "$2b$10$rqM7fQL.hmiHeSHAbldguekMQebjstvEaNDlF4H9g2twpX2.Rzxgm"
+  },
+  {
+    "id": 12,
+    "firstname": "god",
+    "lastname": "have mercy",
+    "emailaddress": "cghhjjhclj@gmail.com",
+    "password": "$2b$10$YPUU6X07ei2NsuxmMZ894OXRlkGwi2IUnhXWnFCMtrMXEjlaUhShq"
+  },
+  {
+    "id": 13,
+    "firstname": "pooo",
+    "lastname": "have mercy",
+    "emailaddress": "cghhjlj@gmail.com",
+    "password": "$2b$10$XQQSrpNL6R.uqFnaITCXc.g/8bnT77CqgF0SpjL6bthDUI1V4f1Cu"
+  },
+  {
+    "id": 14,
+    "firstname": "Jesus",
+    "lastname": "have mercy",
+    "emailaddress": "cghhjlkkkkj@gmail.com",
+    "password": "$2b$10$9vtunzvALa0N83l/N3p4ZOpu5yFVdPMfk1mBX6BinyLjmYVsH3tai"
+  },
+  {
+    "id": 15,
+    "firstname": "HolyGpirit",
+    "lastname": "have mercy",
+    "emailaddress": "hhjlkkkkj@gmail.com",
+    "password": "$2b$10$QeKTiVVpOpfdNVz/9TeLNOcHwilWY6mc2bgxDeU.0hBeJuBYWs9p."
+  },
+  {
+    "id": 16,
+    "firstname": "Raymond",
+    "lastname": "ghhh",
+    "emailaddress": "qwerr@gmail.com",
+    "password": "$2b$10$ts0jRCaJZeihLav7I84MpeXPvUg6sMWU03KQc6Ez1h7m.6Weew8n2"
+  },
+  {
+    "id": 17,
+    "firstname": "Raymond",
+    "lastname": "ghhh",
+    "emailaddress": "qwe@gmail.com",
+    "password": "$2b$10$5WIAk9uzAaPDs0THXvEU/uIqLDtoT.okDKXNhP0U/i7PRviBwpr2O"
+  },
+  {
+    "id": 18,
+    "firstname": "Olakunle",
+    "lastname": "Jade",
+    "emailaddress": "unbeat@gmail.com",
+    "password": "$2b$10$/66KF2rLzdB7XCx5os4RbuSK4xvqSvm1yY1bJqL4h6v38kCHi4uZK"
+  },
+  {
+    "id": 19,
+    "firstname": "Segun",
+    "lastname": "Jade",
+    "emailaddress": "joncr@gmail.com",
+    "password": "$2b$10$Q3/wvIKlDLq.WUrog9QbJ.tl5wg3YZZnvBGN4TmpaYPqwgvSR7OYe"
+  },
+  {
+    "id": 20,
+    "firstname": "Olakunle",
+    "lastname": "Jade",
+    "emailaddress": "unb@gmail.com",
+    "password": "$2b$10$rkYmPOGsdtVwelyFe2jp6.HnR9ivjY4TAqauTwdrJQwqVbcbTsrvm"
+  },
+  {
+    "id": 21,
+    "firstname": "Olakunle",
+    "lastname": "Jade",
+    "emailaddress": "un@gmail.com",
+    "password": "$2b$10$W1Vqpch.TWl3Krf/DkMO3eThkFu/AnniY9UKZ6IjyqO.1OyDKEc5m"
+  },
+  {
+    "id": 22,
+    "firstname": "Olakunle",
+    "lastname": "Jade",
+    "emailaddress": "u@gmail.com",
+    "password": "$2b$10$rY70J0/IKCg6PU1Nt2YxBO6X9DcTHd3l7aq3f0SQAJD9BpeMZkAVG"
+  },
+  {
+    "id": 23,
+    "firstname": "Raymond",
+    "lastname": "Awolowo",
+    "emailaddress": "raymond@gmail.com",
+    "password": "$2b$10$b6HoHRDFXHFxyjjfyU5XreRehZIMDeHSaZ.wZd0hN7PdLlI3ks/mu"
+  },
+  {
+    "id": 24,
+    "firstname": "Babagbemi",
+    "lastname": "Ajayi",
+    "emailaddress": "ajayi.gbemi0806@gmail.com",
+    "password": "$2b$10$Mo3qdZC8bzTkeLUrnqkmn.w527BFIDcpNQrHlSNr8nUxs4aI/k2Q6"
+  },
+  {
+    "id": 25,
+    "firstname": "chris",
+    "lastname": "Chuks",
+    "emailaddress": "chris@yahoo.com",
+    "password": "$2b$10$EAlqA7WUDCBGMRLsc1cy8uT8Tu2SaHS1yTQnYYFQqblZKhkKwVMdy"
+  },
+  {
+    "id": 26,
+    "firstname": "Christopher",
+    "lastname": "moses",
+    "emailaddress": "christmoses1999@gmail.com",
+    "password": "$2b$10$2UpsSh/vI0yjG/decgDAq.p6aWTUOr5PBV3qadGrhrRjdDupLhNSi"
+  },
+  {
+    "id": 27,
+    "firstname": "Nurudeen",
+    "lastname": "Adewale",
+    "emailaddress": "nurudeenadeolaa@gmail.com",
+    "password": "$2b$10$eGJlYlIaxRLIhftR16CmxuA2yHU5rCV3jVUrBGALRHHUGOz9UJpN."
+  }
+]

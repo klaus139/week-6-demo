@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "author": "Chinua Achebe",
+    "dateRegistered": "2022-06-24T22:52:03.189Z",
+    "age": "73",
+    "address": "Columbia",
+    "books": [
+      {
+        "id": 1,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:35:26.703Z"
+      },
+      {
+        "id": 2,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:36:08.057Z"
+      },
+      {
+        "id": 3,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:37:07.358Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 4,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:39:26.479Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 5,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:39:55.823Z",
+        "serialNumber": 1234
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": "Raymond.",
+    "dateRegistered": "2022-06-24T22:52:18.748Z",
+    "age": "34",
+    "address": "Germany, AG",
+    "books": [
+      {
+        "id": 1,
+        "name": "The Blind boy",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:45:01.568Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 2,
+        "name": "Home alone",
+        "isPublished": true,
+        "datePublished": "2022-06-25T22:39:44.925Z",
+        "serialNumber": "127890"
+      },
+      {
+        "id": 3,
+        "name": "Home alone",
+        "isPublished": true,
+        "datePublished": "2022-06-25T22:57:39.877Z",
+        "serialNumber": "100000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Chris.",
+    "dateRegistered": "2022-06-24T22:52:27.809Z",
+    "age": "34",
+    "address": "Germany, AG",
+    "books": [
+      {
+        "id": 1,
+        "name": "The Phantom",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:45:20.303Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 2,
+        "name": "Destiny",
+        "isPublished": true,
+        "datePublished": "2022-06-25T22:41:43.527Z",
+        "serialNumber": "125555"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "author": "Chris.",
+    "dateRegistered": "2022-06-24T22:52:32.531Z",
+    "age": "34",
+    "address": "Germany, AG",
+    "books": [
+      {
+        "id": 1,
+        "name": "The Phantom Squad",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:45:31.199Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 2,
+        "name": "Father's House",
+        "isPublished": true,
+        "datePublished": "2022-06-25T23:33:38.084Z",
+        "serialNumber": "123490"
+      },
+      {
+        "id": 3,
+        "name": "Danger mouse",
+        "isPublished": true,
+        "datePublished": "2022-06-28T22:07:00.486Z",
+        "serialNumber": "098908"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "author": "Chimamanda",
+    "dateRegistered": "2022-06-25T09:24:28.804Z",
+    "age": "34",
+    "address": "Netherlands, D",
+    "books": [
+      {
+        "id": 1,
+        "name": "The purple Hibiscus",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:44:35.548Z",
+        "serialNumber": 1234
+      },
+      {
+        "id": 2,
+        "name": "Decagon's Book",
+        "isPublished": true,
+        "datePublished": "2022-06-25T22:54:02.733Z",
+        "serialNumber": "123455"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "author": "Adamu.",
+    "dateRegistered": "2022-06-25T14:30:56.505Z",
+    "age": "34",
+    "address": "Germany, AG",
+    "books": [
+      {
+        "id": 1,
+        "name": "The Yellow Rose",
+        "isPublished": true,
+        "datePublished": "2022-06-25T14:46:30.695Z",
+        "serialNumber": 1234
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "author": "Sule",
+    "dateRegistered": "2022-07-02T23:37:54.323Z",
+    "age": "78",
+    "address": "Jareg",
+    "books": []
+  }
+]
